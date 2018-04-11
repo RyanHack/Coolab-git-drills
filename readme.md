@@ -15,3 +15,7 @@ Job adds Readme file
 5.Ryan creates an array of objects, each containing both a name and age
 
 6.Job creates a new CSS file. Links to it from one of your HTML files.
+
+7.Ryan creates an array of numbers and a function that returns only the even numbers of aformentioned array
+
+8.

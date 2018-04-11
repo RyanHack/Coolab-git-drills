@@ -4,3 +4,9 @@ var otherPeople =[
     {name: "Gimli", age: 145},
     {name: "Legolas", age: "unknown"}
 ]
+var numbers = [1,2,3,4,5,6,7,8,9,10]
+
+function even(a){
+    return a.filter(function(val){return val%2===0})
+  }
+even(numbers)  
