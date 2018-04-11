@@ -22,4 +22,4 @@ Job adds Readme file
 
 9.Ryan makes a new directory, transfers a file into it
 
-10.
+10.Job creates a new CSS file. Link to it from one of your HTML files.
