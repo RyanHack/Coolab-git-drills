@@ -1,13 +1,17 @@
 Initial commit
 
-Ryan creates Repo, Adds Job as Collaborator
+1.Ryan creates Repo, Adds Job as Collaborator
 
-Job adds Readme file
+2.Job adds Readme file
 
-Ryan  removes a file other than index.html.
+3.Ryan  removes a file other than index.html.
 
-Job created an array of objects. Each object has a name and age.
+4.Job creates an array of objects. Each object has a name and age.
 
-Ryan and Job add a paragraph about things they like
+5.Ryan and Job add a paragraph about things they like
 
-Job created a new HTML file. Linked to it from index.html
+6.Job creates a new HTML file. Linked to it from index.html
+
+7.Ryan creates an array of objects, each containing both a name and age
+
+8.
