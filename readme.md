@@ -10,3 +10,4 @@ Job created an array of objects. Each object has a name and age.
 
 Ryan and Job add a paragraph about things they like
 
+Job created a new HTML file. Linked to it from index.html
