@@ -18,4 +18,4 @@ Job adds Readme file
 
 7.Ryan creates an array of numbers and a function that returns only the even numbers of aformentioned array
 
-8.
+8.Job removes a file other than index.html.
